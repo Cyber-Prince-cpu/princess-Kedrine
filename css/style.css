@@ -1,1 +1,24 @@
-/* Add all your styles here */
+.img-thumbnail{
+  width:50%;
+  border: 10px groove olive;
+}
+}
+.imgscale{
+  width:100%;
+}
+h2{
+  color: red;
+}
+.design{
+  color: purple;
+}
+.ultra{
+  color: red;
+}
+ul{
+  color: green;
+  border: 7px solid goldenrod;
+}
+  h3{
+    
+  }
